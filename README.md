@@ -30,7 +30,7 @@
 
 ### Project Screenshot:
 
-<h5 align = center><u>Login & Registration Page</u></h5>
+<h5 align="center" style="text-decoration: underline;">Login & Registration Page</h5>
 
 ![1716446734161](image/README/1716446734161.png)
 
