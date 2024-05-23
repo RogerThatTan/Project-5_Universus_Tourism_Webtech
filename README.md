@@ -21,11 +21,15 @@
 
 ### API Used:
 
-1. Stripe Payment Gateway (Test Modde).
+1. Stripe Payment Gateway (Test Mode).
 2. Tawk.to (Live Chat)
 3. PHP Mailserver
 4. PDF Generation (Invoice)
 
+---
+
+### Figma Prototype:
+Click this link to visit : https://github.com/RogerThatTan/Tourist_Home_Page_Figma
 ---
 
 ### Project Screenshot:
