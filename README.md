@@ -30,7 +30,7 @@
 
 ### Project Screenshot:
 
-Login & Registration Page: 
+<h5 align = center>Login & Registration Page</h5>
 
 ![1716446734161](image/README/1716446734161.png)
 
