@@ -2,7 +2,7 @@
 
 ---
 
-Universus Tourism is a website that was developed for the Web Technologies course at AIUB. In this project, I developed the tourist/traveller frontend using the MVC framework, along with HTML, CSS, JavaScript, API, and MySQL.
+<p alignment=justify>Universus Tourism is a website that was developed for the Web Technologies course at AIUB. In this project, I developed the tourist/traveller frontend using the MVC framework, along with HTML, CSS, JavaScript, API, and MySQL.</p>
 
 ---
 
