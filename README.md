@@ -30,8 +30,66 @@
 
 ### Project Screenshot:
 
+Login & Registration Page: 
+
+![1716446734161](image/README/1716446734161.png)
+
+![1716446745594](image/README/1716446745594.png)
+
 ###### Homepage
 
 ![1716446201793](image/README/1716446201793.png)
 
 ![1716446214246](image/README/1716446214246.png)
+
+![1716446387327](image/README/1716446387327.png)
+
+![1716446395522](image/README/1716446395522.png)
+
+![1716446404932](image/README/1716446404932.png)
+
+![1716446424203](image/README/1716446424203.png)
+
+![1716446439704](image/README/1716446439704.png)
+
+Category Wise Page
+
+![1716446502089](image/README/1716446502089.png)
+
+Sort by Price:
+
+![1716446887010](image/README/1716446887010.png)
+
+Individual Service Page:
+
+![1716446531342](image/README/1716446531342.png)
+
+Add to Cart:
+
+![1716446907553](image/README/1716446907553.png)
+
+Booking Confirmation Page:
+
+![1716446651119](image/README/1716446651119.png)
+
+Live Chat With Customer Care:![1716446683250](image/README/1716446683250.png)
+
+My Profile :
+
+![1716446780378](image/README/1716446780378.png)
+
+Payment Option: 
+
+![1716446801502](image/README/1716446801502.png)
+
+![1716446807416](image/README/1716446807416.png)
+
+Invoice & Email Option to Registered Email:
+
+![1716446830479](image/README/1716446830479.png)
+
+My Profile Sidebar Navigation:
+
+![1716446853965](image/README/1716446853965.png)
+
+![1716446860539](image/README/1716446860539.png)
