@@ -111,4 +111,8 @@ If not want to create account:
 Password: 6969**
 ---
 
+<div align=center>
+   
 ![e25dfcf7-27dc-406a-a0b8-04e6d23b9f12_text](https://github.com/RogerThatTan/Universus-Tourism-Frontend/assets/101284808/e81da4c5-6c99-469f-80f5-c8baed2f4f6f)
+
+</div>
