@@ -52,27 +52,29 @@
 
 ![1716446439704](image/README/1716446439704.png)
 
-Category Wise Page
+<h5 align = center>Category Wise Page</h5>
 
 ![1716446502089](image/README/1716446502089.png)
 
-Sort by Price:
+<h5 align = center>Sort by Price</h5>
 
 ![1716446887010](image/README/1716446887010.png)
 
-Individual Service Page:
+<h5 align = center>Individual Service Page</h5>
 
 ![1716446531342](image/README/1716446531342.png)
 
-Add to Cart:
+<h5 align = center>Add to Cart</h5>
 
 ![1716446907553](image/README/1716446907553.png)
 
-Booking Confirmation Page:
+<h5 align = center>Booking Confirmation Page</h5>
 
 ![1716446651119](image/README/1716446651119.png)
 
-Live Chat With Customer Care:![1716446683250](image/README/1716446683250.png)
+<h5 align = center>Live Chat With Customer Care</h5>
+
+![1716446683250](image/README/1716446683250.png)
 
 My Profile :
 
