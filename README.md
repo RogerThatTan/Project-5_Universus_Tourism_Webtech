@@ -105,6 +105,7 @@ https://github.com/RogerThatTan/Universus-Tourism-Frontend/assets/101284808/0a8b
 2. Import the database from the MySQL Database folder into XAMPP's MySQL.
 3. **IMPORTANT: From the Tourist Page in the VIEWS folder, extract vendor.zip in the same location before running the project; otherwise, it won't work.**
 4. Create an account from the registration page after importing the database to access all the features of the website.
+   
 If not want to create account:
 **Email: tanvircreft@gmail.com
 Password: 6969**
