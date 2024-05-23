@@ -76,21 +76,21 @@
 
 ![1716446683250](image/README/1716446683250.png)
 
-My Profile :
+<h5 align = center>My Profile</h5>
 
 ![1716446780378](image/README/1716446780378.png)
 
-Payment Option: 
+<h5 align = center>Payment Option</h5>
 
 ![1716446801502](image/README/1716446801502.png)
 
 ![1716446807416](image/README/1716446807416.png)
 
-Invoice & Email Option to Registered Email:
+<h5 align = center>Invoice & Email Option to Registered Email</h5>
 
 ![1716446830479](image/README/1716446830479.png)
 
-My Profile Sidebar Navigation:
+<h5 align = center>My Profile Sidebar Navigation</h5>
 
 ![1716446853965](image/README/1716446853965.png)
 
