@@ -29,7 +29,7 @@
 ---
 
 ### Figma Prototype:
-<p>
+<p center = align>
    ->https://github.com/RogerThatTan/Tourist_Home_Page_Figma
 </p>
 
