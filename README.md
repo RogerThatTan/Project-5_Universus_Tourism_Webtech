@@ -99,7 +99,7 @@
 ---
 ### Web Demonstration:
 https://github.com/RogerThatTan/Universus-Tourism-Frontend/assets/101284808/0a8b02f2-0503-4057-8511-368cb8fb0418
----
+
 ### Things to do run this project:
 1. Tourists can search manually (flights,hotels,tour) from the homepage.
 2. Tourists can sort by price.
