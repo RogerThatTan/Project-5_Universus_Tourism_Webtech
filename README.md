@@ -1,6 +1,6 @@
 <h1 align = center> Universus Tourism Frontend (MVC,HTML,CSS,JS,PHP,API)</h1>
 
----
+
 
 <p align=justify>Universus Tourism is a website that was developed for the Web Technologies course at AIUB. In this project, I developed the tourist/traveller frontend using the MVC framework, along with HTML, CSS, JavaScript, PHP, API, and MySQL.</p>
 
