@@ -1,4 +1,4 @@
-<h1 align = center> Universus Tourism Frontend (MVC,HTML,CSS,JS,PHP,API)</h1>
+<h1 align = center> Universus Tourism (MVC,HTML,CSS,JS,PHP,API)</h1>
 
 
 
